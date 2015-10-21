@@ -126,8 +126,12 @@ old code with shame, so should we with the Developer values.
         - Code that reads like pseudo code doesn't need comments, but complex logic does.
         - Comments explain what  the code is doing and why  it's doing it, but not usually how  it's doing it.
         - Comments shouldn't repeat what your code should already be saying. As long as you're being explicit with your variable naming, something like this is not necessary:
-        - ```// if we are running in an app, do "blah”  
-            if (isRunningInApp)```
+
+          ```
+          // if we are running in an app, do "blah”  
+          if (isRunningInApp)
+          ```
+
 - Write [Minimum Viable Documentation](https://mobify.atlassian.net/wiki/pages/viewpage.action?pageId=50266690#OurSoftwareDesign&DevelopmentProcess-MinimumViableDocumentation) ("MVD”). It's important to have minimal viable documentation for every module/library/plugin/product/etc that you create. It should probably be the [README](https://github.com/mobify/split-test/blob/master/README.md) of the project.
 - Be in touch with the dev community
     - Go to meetups and conferences and share what you've learned with the rest of the team.
