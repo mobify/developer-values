@@ -167,7 +167,7 @@ our company and culture evolve, so should this document.
 - Build systems that are easy to maintain.
     - Code is written once but read often, meaning more time is spent maintain software than there is in writing it.
     - "Standardize how things are deployed" (for example, it's better to put a new service onto Heroku than to just run it on a physical machine in the office).
-    - Be consistent. The projects which are the easiest to work on are the ones that have a consistent code style and structure. It's problematic when certain parts of the codebase have obviously been written by two or more people. To do this, refer both to this document, as well as the [Mobify Code Style repo](https://github.com/mobify/mobify-code-style).
+    - Be consistent. The projects which are the easiest to work on are the ones that have a consistent code style and structure. It's problematic when the style across different parts of the codebase is completely different. To do this, refer to other parts of this document, as well as the [Mobify Code Style repo](https://github.com/mobify/mobify-code-style).
 - Don't repeat yourself (DRY)
     - Extract common or shared functionality into utility functions, and if needed across multiple projects, extract into libraries or frameworks.
     - Re-use the things you've built and avoid copying and pasting. For example we don't want duplicated functionality in our functions, classes, modules, systems. We also want to avoid duplication and share code across sites/apps/systems.
