@@ -166,14 +166,15 @@ repeating the mistakes of the past.
 - It's important to have minimal viable documentation for every module/library/plugin/product/etc that you create. It should probably be the [README](https://github.com/mobify/split-test/blob/master/README.md) of the project.
 
 #### Be in touch with the dev community
-    - Go to meetups and conferences and share what you've learned with the rest of the team.
-    - Write blog posts or speak at meetups and conferences.
+- Go to meetups and conferences and share what you've learned with the rest of the team.
+- Write blog posts or speak at meetups and conferences.
 
 #### Collaboration over competition
 - We have a very collaborative culture. There are a number of reasons why this is preferable:
     - [Competitive cultures tend to not bode well for creating diverse teams.](https://medium.com/@racheltho/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996#c63a).
 
 #### Favour experimentation over argument
+
 #### Be excellent to each other!
 
 ### Be Entrepreneurial
