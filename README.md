@@ -32,7 +32,7 @@ our company and culture evolve, so should this document.
 
 ### Customers First
 
-#### [Write tests](http://stackoverflow.com/questions/67299/is-unit-testing-worth-the-effort).
+#### [Write tests](http://stackoverflow.com/questions/67299/is-unit-testing-worth-the-effort)
 - Despite seeming like they slow down development, it's our experience that it speeds up overall development because it significantly reduces the danger of future changes, meaning we can ship future changes quicker and with greater confidence.
 - For example - [capture.js](https://github.com/mobify/capturejs)
   is a very complicated piece of code that needs a bug fix every
