@@ -1,3 +1,25 @@
+```
+               `:-.
+              -yyyyys+:`
+             /yyyyyyyyy`  +o+/:-.
+           `oyyyyyyyyy-  :hhhhhhhs
+          `syyyyyyyyy+   yhhhhhhhy
+      `-/oyyyyyyyyyyo   :hhhhhhhhs
+   -/oyyyyyyyyyyyyyo`   shhhhhhhhs
+ +yyyyyyyyyyyyyyyy+    `hhhhhhhhho
+ +yyyyyyyyyyyyyy+.     .hhhhhhhhho
+ `yyyyyyyyys+/.         yhhhhhhhhhs`
+  -yso+/-.`             .yhhhhhhhhhy.
+          ```.....`      `shhhhhhhhhy.
+    -://++++++++++++/-`    /yhhhhhhhhy.
+    /++++++++++++++++++/.   `ohhhhhhy+`
+    :++++++++++++++++++++/-`  -shhs:`
+    `+++++++++++++++++++++++-`  -`
+     `......-...-/+++++++++++/`
+                  `-/+++++++:`
+                     `.:/+:`
+```
+
 # Mobify Developer Values
 
 ## What is the purpose of this document?
@@ -112,7 +134,7 @@ our company and culture evolve, so should this document.
     - As the person receiving feedback, strive to be as open to the feedback as possible. This will help maximize learning. (Note: that is not a license for reviewers to completely disregard the feelings of the person who wrote the code - we believe that relationships are more important than process or tools).
 
 #### Be a software craftsman/craftswoman.
-- Take pride in how you build the software and your craftsmanship regardless of how the product does in the market. This doesn't mean gold-plating everything, often you should act pragmatically. Shipping value to users is the most important thing, but make sure to take the time to reflect on what you build, and do a post mortem and always make sure you're not 
+- Take pride in how you build the software and your craftsmanship regardless of how the product does in the market. This doesn't mean gold-plating everything, often you should act pragmatically. Shipping value to users is the most important thing, but make sure to take the time to reflect on what you build, and do a post mortem and always make sure you're not
 repeating the mistakes of the past.
 - Ensure you challenge designs that you see problems with instead of implementing them without questioning.
 
@@ -158,7 +180,7 @@ repeating the mistakes of the past.
     - Comments shouldn't repeat what your code should already be saying. As long as you're being explicit with your variable naming, something like this is not necessary:
 
       ```
-      // if we are running in an app, do "blah”  
+      // if we are running in an app, do "blah”
       if (isRunningInApp)
       ```
 
@@ -211,3 +233,15 @@ repeating the mistakes of the past.
 - Make sure that any code that goes into production has been tested in a "real” environment, for example:
     - For JavaScript client libraries/frameworks, understand what devices are the most important for the code that you're writing. Once you have that understanding, test your code on these platforms with real devices. Using just Saucelabs or simulators is sometimes not enough.
     - For back-end code test on a staging environment that mirrors production very closely.
+
+## Outro, the Zen of Mobify
+
+Be excellent to each other.<br>
+Don't use acronyms or jargon where words would do.<br>
+Be concise.<br>
+Favour small diffs over big bangs.<br>
+Why argue when you can experiment?<br>
+Open by default.<br>
+Small, empowered teams are unstoppable. Let's make more of those.<br>
+Write it in Python, unless you've got a damn good reason not to.<br>
+But don't take this all too seriously.
