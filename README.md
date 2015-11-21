@@ -236,12 +236,21 @@ repeating the mistakes of the past.
 
 ## Outro, the Zen of Mobify
 
-Be excellent to each other.<br>
-Don't use acronyms or jargon where words would do.<br>
-Be concise.<br>
-Favour small diffs over big bangs.<br>
-Why argue when you can experiment?<br>
-Open by default.<br>
-Small, empowered teams are unstoppable. Let's make more of those.<br>
-Write it in Python, unless you've got a damn good reason not to.<br>
+Be excellent to each other.  
+Don't use acronyms or jargon where words would do.  
+Be concise.  
+Favour small diffs over big bangs.  
+Why argue when you can experiment?  
+Open by default.  
+Small, empowered teams are unstoppable. Let's make more of those.  
+~~Write it in Python, unless you've got a damn good reason not to.~~  
+
+**Alternatives?**
+- Use boring tools on interesting problems. Learn interesting tools with boring problems.
+- Write what you don't know with what you do know. Write what you do know with tools you don't know.
+- Solve tough problems with well known technologies. Learn new technologies by solving boring problems.
+- Build with tools you know, not what you want to know.
+- Use battle tested tools on unsolved problems.
+- _Other...?_
+
 But don't take this all too seriously.
