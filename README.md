@@ -243,14 +243,5 @@ Favour small diffs over big bangs.
 Why argue when you can experiment?  
 Open by default.  
 Small, empowered teams are unstoppable. Let's make more of those.  
-~~Write it in Python, unless you've got a damn good reason not to.~~  
-
-**Alternatives?**
-- Use boring tools on interesting problems. Learn interesting tools with boring problems.
-- Write what you don't know with what you do know. Write what you do know with tools you don't know.
-- Solve tough problems with well known technologies. Learn new technologies by solving boring problems.
-- Build with tools you know, not what you want to know.
-- Use battle tested tools on unsolved problems.
-- _Other...?_
-
+New problems don't require new technology.
 But don't take this all too seriously.
