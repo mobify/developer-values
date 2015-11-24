@@ -243,5 +243,5 @@ Favour small diffs over big bangs.
 Why argue when you can experiment?  
 Open by default.  
 Small, empowered teams are unstoppable. Let's make more of those.  
-New problems don't require new technology.
+New problems don't require new technology.  
 But don't take this all too seriously.
