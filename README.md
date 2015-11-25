@@ -236,12 +236,12 @@ repeating the mistakes of the past.
 
 ## Outro, the Zen of Mobify
 
-Be excellent to each other.
-Be concise.
-Avoid acronyms or jargon where words would do.
-Favour small diffs over big bangs.
-Why argue when you can experiment?
-Open by default.
-Small, empowered teams are unstoppable. Let's make more of those.
-New problems don't require new technology.
-Don't take this all too seriously.
+* Be excellent to each other.
+* Be concise.
+* Avoid acronyms or jargon where words would do.
+* Favour small diffs over big bangs.
+* Why argue when you can experiment?
+* Open by default.
+* Small, empowered teams are unstoppable. Let's make more of those.
+* New problems don't require new technology.
+* Don't take this all too seriously.
