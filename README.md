@@ -138,6 +138,10 @@ our company and culture evolve, so should this document.
 repeating the mistakes of the past.
 - Ensure you challenge designs that you see problems with instead of implementing them without questioning.
 
+#### Spread knowledge
+- Create documentation for the software you write (sometimes [even before you write it](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html))
+- Collaborate with others on their problems rather then solving everything for them. Provide others with the tools/knowledge/documentation they need to unblock themselves.
+
 #### Reach out to domain experts.
 - We value a collaborative development environment where we seek expertise from domain area experts. We have a wealth of expertise on the team with very talented folks - talk to them instead of making the mistake yourself! If you are unsure who to chat with, feel free to reach out to folks in the Engineering room on Slack, or reach out to your lead.
 
