@@ -202,12 +202,16 @@ repeating the mistakes of the past.
 - Write blog posts or speak at meetups and conferences.
 
 #### Collaboration over competition
-- We have a very collaborative culture. There are a number of reasons why this is preferable:
-    - [Competitive cultures tend to not bode well for creating diverse teams.](https://medium.com/@racheltho/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996#c63a).
+- We have a very collaborative culture. [Competitive cultures tend to not bode well for creating diverse teams](https://medium.com/@racheltho/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996#c63a), which we value highly.
 
 #### Favour experimentation over argument
 
 #### Be excellent to each other!
+
+#### Inclusive over exclusive
+- We value diversity - and a diverse culture is one that does not exclude people. Bullying,
+  [contempt](http://blog.aurynn.com/86/contempt-culture), and other actions that cause
+  people to feel excluded have no place in our team.
 
 ### Be Entrepreneurial
 
