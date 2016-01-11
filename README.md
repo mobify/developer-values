@@ -208,7 +208,7 @@ repeating the mistakes of the past.
 
 #### Be excellent to each other!
 
-#### Inclusive over exclusive
+#### Inclusion over exclusion
 - We value diversity - and a diverse culture is one that does not exclude people. Bullying,
   [contempt](http://blog.aurynn.com/86/contempt-culture), and other actions that cause
   people to feel excluded have no place in our team.
