@@ -128,6 +128,7 @@ our company and culture evolve, so should this document.
 - Teach others and help them grow in their abilities.
     - Teach your co-workers. Good venues for this are [Science Fair or the Engineering Meeting](https://mobify.atlassian.net/wiki/display/DEV/Engineering+Home).
     - Teach the community - for example speak at meetups ([VanJS)](http://www.meetup.com/vancouver-javascript-developers/), [VanPy](http://www.meetup.com/vanpyz/), [Web Performance](http://www.meetup.com/Vancouver-Web-Performance/), etc) or write blog posts.
+    - Transfer knowledge whenever possible. If someone encounters a problem it is better to guide them to a solution rather then solving it for them.
 - [Code reviews](https://mobify.atlassian.net/wiki/questions/79527980/answers/81789067) and Pair Programming are excellent strategies for learning new tricks.
     - Ensure people with different skill levels and skill sets are reviewing your code, it's a great opportunity for cross-pollination.
     - Get your code reviewed by the CTO at our [Engineering Office Hours](https://docs.google.com/document/d/1fvL30nvx1Yr2i--dTyytExnrokwrBQlPmXX2ZM06ukU/edit).
@@ -184,8 +185,17 @@ repeating the mistakes of the past.
       if (isRunningInApp)
       ```
 
-#### Write [Minimum Viable Documentation](https://mobify.atlassian.net/wiki/pages/viewpage.action?pageId=50266690#OurSoftwareDesign&DevelopmentProcess-MinimumViableDocumentation).
-- It's important to have minimal viable documentation for every module/library/plugin/product/etc that you create. It should probably be the [README](https://github.com/mobify/split-test/blob/master/README.md) of the project.
+#### Write [Minimum Viable Documentation](https://mobify.atlassian.net/wiki/pages/viewpage.action?pageId=50266690#OurSoftwareDesign&DevelopmentProcess-MinimumViableDocumentation)
+- All modules/libraries/plugins/etc. should have documentation that explains:
+    - Setup
+    - Usage
+    - Deployment
+    - Testing
+    - Contributing
+    - Roadmap/Changelog
+- Good documentation enables others to get up and running without your involvement.
+- Documentation should be updated as you write your software (or [even before you write it](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)))
+- You should be able to answer the majority of questions from users with a link to a document.
 
 #### Be in touch with the dev community
 - Go to meetups and conferences and share what you've learned with the rest of the team.
