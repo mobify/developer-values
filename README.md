@@ -254,4 +254,5 @@ repeating the mistakes of the past.
 * Open by default.
 * Small, empowered teams are unstoppable. Let's make more of those.
 * New problems don't require new technology.
+* Refuse to let things be broken, hard or complex. 
 * Don't take this all too seriously.
