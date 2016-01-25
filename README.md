@@ -214,8 +214,18 @@ repeating the mistakes of the past.
 #### Prototype
 - Think we should do X? Build a prototype and convince people. Email discussions, Science Fair or the Engineering Meeting are excellent avenues for this.
 
-#### Improve processes
-- There are many process in place - don't ever assume they are infallible. If you have ideas for how to improve a process, work with your team/lead/peers to make it happen!
+#### Improve Process
+
+The way we're doing things today is based on information we had in the past.
+
+New people, tools and understanding changes the context in which the decision
+was made.
+
+The way we decided to do things last year, last month or even last week might
+not be the best way to go forward today.
+
+If you have idea for how to improve a process, work with your team/lead/peers to
+make it happen!
 
 #### Ownership
 - For a service, app or site that goes live, no one is going to fix your production bug but you. At Mobify, we practice DevOps, meaning engineers are responsible for both building software, and making it operate live in production. There is no central Operations team for running/maintaining production code, although we do have a DevOps guild that gets together to discuss our different services.
@@ -231,11 +241,19 @@ repeating the mistakes of the past.
 - Extract common or shared functionality into utility functions, and if needed across multiple projects, extract into libraries or frameworks.
 - Re-use the things you've built and avoid copying and pasting. For example we don't want duplicated functionality in our functions, classes, modules, systems. We also want to avoid duplication and share code across sites/apps/systems.
 
-#### The Boy Scouts Rule
-- Leave the campground better than you've found it.  Always check a module in cleaner than you found it.
-- Try to improve code quality every time you work on a project.
-- Fix formatting, spelling, do small refactorings…  But do this in moderation - if it's too hard to actually see the meat of the changes, you should probably move your cleanup changes to a separate branch.
-- Continuous improvement through iteration: Improve the code base slowly but surely.
+#### Scouts Rule
+
+> Try and leave this world a little better than you found it. – [*Robert Baden-Powell*](https://en.wikipedia.org/wiki/Robert_Baden-Powell,_1st_Baron_Baden-Powell)
+
+Continuously improve through iteration.
+
+Can that function you touched be refactored? Can the doc strings of the module
+you changed by updated? Are there inconsistencies in naming of files you're
+editing?
+
+Try and leave this code a little better than you found it.
+
+*Be wary cleanup doesn't hide the intent of your change!*
 
 #### Build testable and well tested software
 - Test that the functionality you implemented works and fulfills the requirements. Also make sure that you didn't introduce regressions.
