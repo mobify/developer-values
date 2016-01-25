@@ -203,11 +203,10 @@ repeating the mistakes of the past.
 
 #### Diversity and Collaboration
 
-We value diversity and collaboration. Our best work is done together, when all
-voices are heard.
-
 > Be excellent to each other... and... PARTY ON, DUDES! - [*Abraham Lincoln*](https://en.wikiquote.org/wiki/Bill_%26_Ted%27s_Excellent_Adventure)
 
+We value diversity and collaboration. Our best work is done together, when all
+voices are heard.
 
 > * Be friend and patient.
 > * Be welcoming.
@@ -215,7 +214,6 @@ voices are heard.
 > * Be respectful.
 > * Be mindful of the words you choose.
 > * When we disagree, try to understand why.
->
 > – [*Django Code of Conduct*](https://www.djangoproject.com/conduct/)
 
 To understand what we're trying to become, it may be useful to understand what
