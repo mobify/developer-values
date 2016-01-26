@@ -201,17 +201,28 @@ repeating the mistakes of the past.
 - Go to meetups and conferences and share what you've learned with the rest of the team.
 - Write blog posts or speak at meetups and conferences.
 
-#### Collaboration over competition
-- We have a very collaborative culture. [Competitive cultures tend to not bode well for creating diverse teams](https://medium.com/@racheltho/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996#c63a), which we value highly.
+#### Diversity and Collaboration
+
+> Be excellent to each other... and... PARTY ON, DUDES! - [*Abraham Lincoln*](https://en.wikiquote.org/wiki/Bill_%26_Ted%27s_Excellent_Adventure)
+
+We value diversity and collaboration. Our best work is done together, when all
+voices are heard.
+
+> * Be friend and patient.
+> * Be welcoming.
+> * Be considerate.
+> * Be respectful.
+> * Be mindful of the words you choose.
+> * When we disagree, try to understand why.
+> – [*Django Code of Conduct*](https://www.djangoproject.com/conduct/)
+
+To understand what we're trying to become, it may be useful to understand what
+we're trying to avoid. See effects of [contempt](http://blog.aurynn.com/86/contempt-culture)
+and [competition](https://medium.com/tech-diversity-files/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996#.yjrp4mqkb) on environments.
 
 #### Favour experimentation over argument
 
 #### Be excellent to each other!
-
-#### Inclusion over exclusion
-- We value diversity - and a diverse culture is one that does not exclude people. Bullying,
-  [contempt](http://blog.aurynn.com/86/contempt-culture), and other actions that cause
-  people to feel excluded have no place in our team.
 
 ### Be Entrepreneurial
 
