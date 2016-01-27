@@ -208,7 +208,7 @@ repeating the mistakes of the past.
 We value diversity and collaboration. Our best work is done together, when all
 voices are heard.
 
-> * Be friend and patient.
+> * Be friendly and patient.
 > * Be welcoming.
 > * Be considerate.
 > * Be respectful.
