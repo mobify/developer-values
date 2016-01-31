@@ -220,6 +220,10 @@ To understand what we're trying to become, it may be useful to understand what
 we're trying to avoid. See effects of [contempt](http://blog.aurynn.com/86/contempt-culture)
 and [competition](https://medium.com/tech-diversity-files/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996#.yjrp4mqkb) on environments.
 
+#### Assume positive intent
+- It's easy to adopt an "us vs them" mentality within any organization. Resist the urge, and always try to remember
+  that we're all on this journey together working towards the same goals. TODO Revise!
+
 #### Favour experimentation over argument
 
 #### Be excellent to each other!
