@@ -74,10 +74,10 @@ Favour writting tests when:
 
 [Be pragmatic about where you're testing to get the highest return](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html).
 
-#### Use staging / testing environments.
-- We should always test in an environment as close to production as possible before going live – this allows us to spot any bugs, and resolve them before we flip that switch and turn it on for everyone.
+#### Use staging and testing environments.
 
-#### [Follow our best practices](https://mobify.atlassian.net/wiki/display/PLAT/Coding+and+Design+Best+Practices).
+Always test changes in a non-production environment before releasing them. This
+allows us to spot and resolve bugs before they impact customers.
 
 #### Fail Gracefully.
 - Adaptive.js/mobify.js projects fail gracefully by reverting to the desktop site in the event of an exception or network error.
@@ -117,14 +117,11 @@ Favour writting tests when:
 
 ### Invent
 
-#### Don't be afraid to push the boundaries of technology, but [be conservative with your tech stack](http://mcfunley.com/choose-boring-technology).
-- What this means is that the things you are building should be pushing boundaries, not the things you are building them with. [Here is a list of technology decisions we have evaluated in the past](https://mobify.atlassian.net/wiki/questions/77168927/what-should-i-consider-when-evaluating-a-new-service-feature-or-technology-what-criteria-do-we-use-in-our-decisions).
+#### Push the boundaries of technology, but [try to map new problems to our stack](http://mcfunley.com/choose-boring-technology).
 
+We're inventing a new product category. This is pretty tough.
 
-#### [Follow our best practices](https://mobify.atlassian.net/wiki/display/PLAT/Coding+and+Design+Best+Practices).
-- for many things, we've already solved them.
-
-
+Favour battle-tested technologies that we're familiar with.
 
 #### Have an idea you want to pursue?
 - Customer/Product Improvements:
@@ -165,6 +162,8 @@ repeating the mistakes of the past.
 #### [Build and work on your career growth plan](https://docs.google.com/document/d/1P3XOEu6AYWph7hStaBybR1yIac5pexGChykZh_X9CGM/edit#)
 
 ### Simplify
+
+#### [Follow our best practices](https://mobify.atlassian.net/wiki/display/PLAT/Coding+and+Design+Best+Practices).
 
 #### [Keep it Simple, Silly (KISS)](https://en.wikipedia.org/wiki/KISS_principle)
 - Simple is better than complex.
