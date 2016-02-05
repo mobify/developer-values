@@ -54,14 +54,25 @@ our company and culture evolve, so should this document.
 
 ### Customers First
 
-#### [Write tests](http://stackoverflow.com/questions/67299/is-unit-testing-worth-the-effort)
-- Despite seeming like they slow down development, it's our experience that it speeds up overall development because it significantly reduces the danger of future changes, meaning we can ship future changes quicker and with greater confidence.
-- For example - [capture.js](https://github.com/mobify/capturejs)
-  is a very complicated piece of code that needs a bug fix every
-  once and awhile. With [tests](https://github.com/mobify/capturejs/blob/master/tests/capture-tests.js),
-  we can quickly make changes and ship with confidence.
-- Tests also help us write better code. Nothing helps refactor a
-  giant method better than writing a test for it!
+#### [Write tests](http://stackoverflow.com/questions/67299/is-unit-testing-worth-the-effort).
+
+Testing speeds up development by reducing the danger of future change.
+
+Testing leads to better code. *Nothing refactors a giant method better than
+trying to write a test for it!*
+
+Testing gives us the confidence to experiment and deploy to production. This
+is especially important with complex code like [`mobify/capturejs`](https://github.com/mobify/capturejs).
+A strong [test suite](https://github.com/mobify/capturejs/blob/master/tests/capture-tests.js)
+let's us make improvements without worrying about breaking edgecases.
+
+Favour writting tests when:
+* You do something silly. Write tests to avoid doing it again.
+* We discover a regression. Write tests to make sure we don't do it again.
+* You're working on something that cannot break. Eg. our login form.
+  Write tests to make sure no one ever breaks that!
+
+[Be pragmatic about where you're testing to get the highest return](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html).
 
 #### Use staging / testing environments.
 - We should always test in an environment as close to production as possible before going live – this allows us to spot any bugs, and resolve them before we flip that switch and turn it on for everyone.
@@ -108,6 +119,12 @@ our company and culture evolve, so should this document.
 
 #### Don't be afraid to push the boundaries of technology, but [be conservative with your tech stack](http://mcfunley.com/choose-boring-technology).
 - What this means is that the things you are building should be pushing boundaries, not the things you are building them with. [Here is a list of technology decisions we have evaluated in the past](https://mobify.atlassian.net/wiki/questions/77168927/what-should-i-consider-when-evaluating-a-new-service-feature-or-technology-what-criteria-do-we-use-in-our-decisions).
+
+
+#### [Follow our best practices](https://mobify.atlassian.net/wiki/display/PLAT/Coding+and+Design+Best+Practices).
+- for many things, we've already solved them.
+
+
 
 #### Have an idea you want to pursue?
 - Customer/Product Improvements:
