@@ -89,10 +89,6 @@ our company and culture evolve, so should this document.
     - Practicing failures through [Failure Fridays](https://mobify.atlassian.net/wiki/questions/82280579/answers/82280618)
     - Ensuring every major service has a [Holy Shit Handbook](https://mobify.atlassian.net/wiki/display/SYS/The+Holy+Shit+Handbook).
 
-#### Build Minimum Viable Products (MVPs)
-- When beginning a new feature with a high amount of ambiguity or uncertainty about whether it will really be a hit, think "What is the MVP for this" that is, what is the minimum amount of work we can do to deliver the value of this feature to the user.
-- In other words: Don't gold plate before validating your idea.
-
 #### Release early, release often
 - The best way to debug software in production is by releasing it and identifying the bug right away, rather then waiting a month and then completely forgetting how things worked.
 - Caveat: Release within reason. You can ship a backend feature multiple times a day, but you might not want to release 5 versions of Adaptive.js in a day. Use discretion.
@@ -225,6 +221,10 @@ and [competition](https://medium.com/tech-diversity-files/if-you-think-women-in-
 #### Be excellent to each other!
 
 ### Be Entrepreneurial
+
+#### Build Minimum Viable Products (MVPs)
+- When beginning a new feature with a high amount of ambiguity or uncertainty about whether it will really be a hit, think "What is the MVP for this" that is, what is the minimum amount of work we can do to deliver the value of this feature to the user.
+- In other words: Don't gold plate before validating your idea.
 
 #### Prototype
 - Think we should do X? Build a prototype and convince people. Email discussions, Science Fair or the Engineering Meeting are excellent avenues for this.
