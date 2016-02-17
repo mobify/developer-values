@@ -76,7 +76,7 @@ our company and culture evolve, so should this document.
   business logic to fail](https://mobify.atlassian.net/wiki/display/PLAT/Best+Practices+to+avoid+content+being+blocked+by+ad+blockers).
 - Occasionally, things are going to blow up. It's important to have appropriate fail-safes to allow us to resolve issues as quickly as possible. Some examples of that are:
     - Kill switches or [circuit breakers](http://martinfowler.com/bliki/CircuitBreaker.html).
-    - Forced updates to websites/apps when certain changes being made are not
+    - Force updates to websites/apps when certain changes being made are not
       backwards-compatible.
     - Being able to rollback quickly (for example, make sure microservices are served off
       a domain you control. [Not doing this has bit us in the past](https://github.com/mobify/btr-adaptivejs/blob/6ed7d4bb9137e81efa63bfc28eda3ac397a2445c/assets/js/ui/view-scripts/hybrid/fb.js#L7))
