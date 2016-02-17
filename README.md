@@ -80,6 +80,7 @@ our company and culture evolve, so should this document.
       backwards-compatible.
     - Being able to rollback quickly (for example, make sure microservices are served off
       a domain you control. [Not doing this has bit us in the past](https://github.com/mobify/btr-adaptivejs/blob/6ed7d4bb9137e81efa63bfc28eda3ac397a2445c/assets/js/ui/view-scripts/hybrid/fb.js#L7))
+    - Render critical pieces of page structure on load, filling in the content as remote calls succeed.
 - When things do blow up, have a [post-mortem](https://codeascraft.com/2012/05/22/blameless-postmortems/). Post-mortems are our best way of evaluating what processes caused failure to happen, and what we can do to prevent it from happening again in the future. [Here is a list of post-mortems](https://mobify.atlassian.net/wiki/display/PLAT/Post-Mortems).
 
 #### Build reliable services.
