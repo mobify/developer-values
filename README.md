@@ -225,6 +225,7 @@ and [competition](https://medium.com/tech-diversity-files/if-you-think-women-in-
 #### Build Minimum Viable Products (MVPs)
 - When beginning a new feature with a high amount of ambiguity or uncertainty about whether it will really be a hit, think "What is the MVP for this" that is, what is the minimum amount of work we can do to deliver the value of this feature to the user.
 - In other words: Don't gold plate before validating your idea.
+- Collect some meaningful metric(s) to measure it's effectiveness. Hint: product managers are excited to talk about KPIs!
 
 #### Prototype
 - Think we should do X? Build a prototype and convince people. Email discussions, Science Fair or the Engineering Meeting are excellent avenues for this.
