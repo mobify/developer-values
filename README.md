@@ -29,7 +29,7 @@ Sometimes, it can be hard to justify certain approaches to building software.
 The purpose of this document is to relate the "how" to build software to the
 "why" by relating our processes to our company values.
 
-The Developer Values are a living document. Everyone can contribute and as
+The Developer Values is a living document. Everyone can contribute and as
 our company and culture evolve, so should this document.
 
 ### This document will be helpful for:
@@ -135,7 +135,7 @@ our company and culture evolve, so should this document.
     - As the person receiving feedback, strive to be as open to the feedback as possible. This will help maximize learning. (Note: that is not a license for reviewers to completely disregard the feelings of the person who wrote the code - we believe that relationships are more important than process or tools).
 
 #### Be a software craftsman/craftswoman.
-- Take pride in how you build the software and your craftsmanship regardless of how the product does in the market. This doesn't mean gold-plating everything, often you should act pragmatically. Shipping value to users is the most important thing, but make sure to take the time to reflect on what you build, and do a post mortem and always make sure you're not
+- Take pride in how you build the software and your craftsmanship regardless of how the product does in the market. This doesn't mean gold-plating everything. Shipping value to users is the most important thing, but make sure to take the time to reflect on what you build, and do a post mortem and always make sure you're not
 repeating the mistakes of the past.
 - Ensure you challenge designs that you see problems with instead of implementing them without questioning.
 
@@ -193,7 +193,7 @@ repeating the mistakes of the past.
     - Testing
     - Contributing
     - Roadmap/Changelog
-- Good documentation enables others to get up and running without your involvement.
+- Good documentation enables others to get up and running faster.
 - Documentation should be updated as you write your software (or [even before you write it](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)))
 - You should be able to answer the majority of questions from users with a link to a document.
 
@@ -220,7 +220,7 @@ To understand what we're trying to become, it may be useful to understand what
 we're trying to avoid. See effects of [contempt](http://blog.aurynn.com/86/contempt-culture)
 and [competition](https://medium.com/tech-diversity-files/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996#.yjrp4mqkb) on environments.
 
-#### Favour experimentation over argument
+#### Favour experimentation over opinion
 
 #### Be excellent to each other!
 
