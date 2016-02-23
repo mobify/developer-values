@@ -227,7 +227,7 @@ and [competition](https://medium.com/tech-diversity-files/if-you-think-women-in-
 ### Be Entrepreneurial
 
 #### Prototype
-- Think we should do X? Build a prototype and convince people. Email discussions, Science Fair or the Engineering Meeting are excellent avenues for this.
+- Think we should do X? Build a prototype and convince people. Slack discussions, Science Fair, or the Engineering Meeting are excellent avenues for this.
 
 #### Improve Process
 
