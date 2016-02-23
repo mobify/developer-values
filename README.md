@@ -138,6 +138,7 @@ our company and culture evolve, so should this document.
 - Take pride in how you build the software and your craftsmanship regardless of how the product does in the market. This doesn't mean gold-plating everything, often you should act pragmatically. Shipping value to users is the most important thing, but make sure to take the time to reflect on what you build, and do a post mortem and always make sure you're not
 repeating the mistakes of the past.
 - Ensure you challenge designs that you see problems with instead of implementing them without questioning.
+- Internet resources such as StackOverflow and Github are valuable as a source of advice and example code, but we don't treat them as a source of truth. We always try to understand and validate what we find online before using it (using available source code and API documentation).
 
 #### Reach out to domain experts.
 - We value a collaborative development environment where we seek expertise from domain area experts. We have a wealth of expertise on the team with very talented folks - talk to them instead of making the mistake yourself! If you are unsure who to chat with, feel free to reach out to folks in the Engineering room on Slack, or reach out to your lead.
