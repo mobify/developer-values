@@ -52,6 +52,16 @@ our company and culture evolve, so should this document.
 
 ## A Developer's Perspective on Mobify's Core Values
 
+1. [Customers First](#customers-first)
+1. [Invent](#invent)
+1. [Always Grow](#always-grow)
+1. [Simplify](#simplify)
+1. [Communicate](#communicate)
+1. [Be Entrepreneurial](#be-entrepreneurial)
+1. [Build to Last](#build-to-last)
+
+[Summary - Zen of Mobify](#outro-the-zen-of-mobify)
+
 ### Customers First
 
 #### [Write tests](http://stackoverflow.com/questions/67299/is-unit-testing-worth-the-effort)
