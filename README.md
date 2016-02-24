@@ -52,6 +52,8 @@ our company and culture evolve, so should this document.
 
 ## A Developer's Perspective on Mobify's Core Values
 
+### Table of Contents
+
 1. [Customers First](#customers-first)
 1. [Invent](#invent)
 1. [Always Grow](#always-grow)
@@ -60,7 +62,7 @@ our company and culture evolve, so should this document.
 1. [Be Entrepreneurial](#be-entrepreneurial)
 1. [Build to Last](#build-to-last)
 
-[Summary - Zen of Mobify](#outro-the-zen-of-mobify)
+#### [Summary - Zen of Mobify](#outro-the-zen-of-mobify)
 
 ### Customers First
 
