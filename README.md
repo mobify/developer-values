@@ -62,7 +62,7 @@ our company and culture evolve, so should this document.
 1. [Be Entrepreneurial](#be-entrepreneurial)
 1. [Build to Last](#build-to-last)
 
-[Summary - Zen of Mobify](#outro-the-zen-of-mobify)
+[Outro - Zen of Mobify](#outro-the-zen-of-mobify)
 
 ### Customers First
 
