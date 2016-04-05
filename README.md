@@ -52,6 +52,15 @@ our company and culture evolve, so should this document.
 
 ## A Developer's Perspective on Mobify's Core Values
 
+* [Customers First](#customers-first)
+* [Invent](#invent)
+* [Always Grow](#always-grow)
+* [Simplify](#simplify)
+* [Communicate](#communicate)
+* [Be Entrepreneurial](#be-entrepreneurial)
+* [Build to Last](#build-to-last)
+* [The Zen of Mobify](#the-zen-of-mobify)
+
 ### Customers First
 
 #### [Write tests](http://stackoverflow.com/questions/67299/is-unit-testing-worth-the-effort)
@@ -278,7 +287,7 @@ Try and leave this code a little better than you found it.
     - For JavaScript client libraries/frameworks, understand what devices are the most important for the code that you're writing. Once you have that understanding, test your code on these platforms with real devices. Using just Saucelabs or simulators is sometimes not enough.
     - For back-end code test on a staging environment that mirrors production very closely.
 
-## Outro, the Zen of Mobify
+## The Zen of Mobify
 
 * Be excellent to each other.
 * Be concise.
