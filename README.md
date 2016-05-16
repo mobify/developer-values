@@ -179,6 +179,7 @@ repeating the mistakes of the past.
 - Embrace feedback in the code review process.
 - Use the [30/90% principle](https://42floors.com/blog/startups/thirty-percent-feedback) when giving feedback.
 - Seek opportunities to work with others and learn from them. There are lots of smart colleagues around you :).
+- *Consult!* There's a great tradition in medicine, where a doctor, no matter how experienced, will ask a colleague for a _consult_: an opportunity to hear someone else's take on a problem and/or a solution, and maybe open up a different perspective. Feel free to ask for consults, and to give them. Asking for one doesn't commit you to do anything more than listen to the answer. Being asked doesn't mean you have to solve someone else's problem. It's an opportunity to share. 
 
 #### Readability counts.
 - Code is written once but read often. There is a good chance someone will have to figure out what it does, mostly likely you, twelve months from now. Take care to write your code in such a way that your future self can iterate on new features and address bugs much faster.
