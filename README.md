@@ -287,6 +287,9 @@ Try and leave this code a little better than you found it.
 - Make sure that any code that goes into production has been tested in a "real” environment, for example:
     - For JavaScript client libraries/frameworks, understand what devices are the most important for the code that you're writing. Once you have that understanding, test your code on these platforms with real devices. Using just Saucelabs or simulators is sometimes not enough.
     - For back-end code test on a staging environment that mirrors production very closely.
+- Be specific about dependencies. If you are including an external library, be explicit about the version of that dependency.
+Non-explicity versions like `~0.2.1` can lead to different behavior from one test run to the next if that dependency
+version changes.
 
 ## The Zen of Mobify
 
