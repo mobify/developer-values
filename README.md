@@ -29,7 +29,7 @@ Sometimes, it can be hard to justify certain approaches to building software.
 The purpose of this document is to relate the "how" to build software to the
 "why" by relating our processes to our company values.
 
-The Developer Values are a living document. Everyone can contribute and as
+The Developer Values is a living document. Everyone can contribute and as
 our company and culture evolve, so should this document.
 
 ### This document will be helpful for:
@@ -85,10 +85,10 @@ our company and culture evolve, so should this document.
   business logic to fail](https://mobify.atlassian.net/wiki/display/PLAT/Best+Practices+to+avoid+content+being+blocked+by+ad+blockers).
 - Occasionally, things are going to blow up. It's important to have appropriate fail-safes to allow us to resolve issues as quickly as possible. Some examples of that are:
     - Kill switches or [circuit breakers](http://martinfowler.com/bliki/CircuitBreaker.html).
-    - Forced updates to websites/apps when certain changes being made are not
+    - Force updates to websites/apps when certain changes being made are not
       backwards-compatible.
-    - Being able to rollback quickly (for example, make sure microservices are served off
-      a domain you control. [Not doing this has bit us in the past](https://github.com/mobify/btr-adaptivejs/blob/6ed7d4bb9137e81efa63bfc28eda3ac397a2445c/assets/js/ui/view-scripts/hybrid/fb.js#L7))
+    - Being able to rollback quickly (for example, make sure microservices are served off a domain you control. [Not doing this has bit us in the past](https://github.com/mobify/btr-adaptivejs/blob/6ed7d4bb9137e81efa63bfc28eda3ac397a2445c/assets/js/ui/view-scripts/hybrid/fb.js#L7))
+    - Render critical pieces of page structure on load, filling in the content as remote calls succeed.
 - When things do blow up, have a [post-mortem](https://codeascraft.com/2012/05/22/blameless-postmortems/). Post-mortems are our best way of evaluating what processes caused failure to happen, and what we can do to prevent it from happening again in the future. [Here is a list of post-mortems](https://mobify.atlassian.net/wiki/display/PLAT/Post-Mortems).
 
 #### Build reliable services.
@@ -97,10 +97,6 @@ our company and culture evolve, so should this document.
     - Setting up failover databases/servers
     - Practicing failures through [Failure Fridays](https://mobify.atlassian.net/wiki/questions/82280579/answers/82280618)
     - Ensuring every major service has a [Holy Shit Handbook](https://mobify.atlassian.net/wiki/display/SYS/The+Holy+Shit+Handbook).
-
-#### Build Minimum Viable Products (MVPs)
-- When beginning a new feature with a high amount of ambiguity or uncertainty about whether it will really be a hit, think "What is the MVP for this" that is, what is the minimum amount of work we can do to deliver the value of this feature to the user.
-- In other words: Don't gold plate before validating your idea.
 
 #### Release early, release often
 - The best way to debug software in production is by releasing it and identifying the bug right away, rather then waiting a month and then completely forgetting how things worked.
@@ -144,7 +140,7 @@ our company and culture evolve, so should this document.
     - As the person receiving feedback, strive to be as open to the feedback as possible. This will help maximize learning. (Note: that is not a license for reviewers to completely disregard the feelings of the person who wrote the code - we believe that relationships are more important than process or tools).
 
 #### Be a software craftsman/craftswoman.
-- Take pride in how you build the software and your craftsmanship regardless of how the product does in the market. This doesn't mean gold-plating everything, often you should act pragmatically. Shipping value to users is the most important thing, but make sure to take the time to reflect on what you build, and do a post mortem and always make sure you're not
+- Take pride in how you build the software and your craftsmanship regardless of how the product does in the market. This doesn't mean gold-plating everything. Shipping value to users is the most important thing, but make sure to take the time to reflect on what you build, and do a post mortem and always make sure you're not
 repeating the mistakes of the past.
 - Ensure you challenge designs that you see problems with instead of implementing them without questioning.
 - Internet resources such as StackOverflow and Github are valuable as a source of advice and example code, but we don't treat them as a source of truth. We always try to understand and validate what we find online before using it (using available source code and API documentation).
@@ -204,7 +200,7 @@ repeating the mistakes of the past.
     - Testing
     - Contributing
     - Roadmap/Changelog
-- Good documentation enables others to get up and running without your involvement.
+- Good documentation enables others to get up and running faster.
 - Documentation should be updated as you write your software (or [even before you write it](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)))
 - You should be able to answer the majority of questions from users with a link to a document.
 
@@ -231,11 +227,16 @@ To understand what we're trying to become, it may be useful to understand what
 we're trying to avoid. See effects of [contempt](http://blog.aurynn.com/86/contempt-culture)
 and [competition](https://medium.com/tech-diversity-files/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996#.yjrp4mqkb) on environments.
 
-#### Favour experimentation over argument
+#### Favour experimentation over opinion
 
 #### Be excellent to each other!
 
 ### Be Entrepreneurial
+
+#### Build Minimum Viable Products (MVPs)
+- When beginning a new feature with a high amount of ambiguity or uncertainty about whether it will really be a hit, think "What is the MVP for this" that is, what is the minimum amount of work we can do to deliver the value of this feature to the user.
+- In other words: Don't gold plate before validating your idea.
+- Collect some meaningful metric(s) to measure it's effectiveness. Hint: product managers are excited to talk about KPIs!
 
 #### Prototype
 - Think we should do X? Build a prototype and convince people. Slack discussions, Science Fair, or the Engineering Meeting are excellent avenues for this.
