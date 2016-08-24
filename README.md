@@ -196,17 +196,24 @@ repeating the mistakes of the past.
       if (isRunningInApp)
       ```
 
-#### Write [Minimum Viable Documentation](https://mobify.atlassian.net/wiki/pages/viewpage.action?pageId=50266690#OurSoftwareDesign&DevelopmentProcess-MinimumViableDocumentation)
-- All modules/libraries/plugins/etc. should have documentation that explains:
-    - Setup
-    - Usage
-    - Deployment
-    - Testing
-    - Contributing
-    - Roadmap/Changelog
-- Good documentation enables others to get up and running without your involvement.
-- Documentation should be updated as you write your software (or [even before you write it](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)))
-- You should be able to answer the majority of questions from users with a link to a document.
+#### Write a README
+
+Documentation is essential to making codebases accessible for new contributors.
+
+All project, modules, libraries and plugins must include a `README.md` file in
+the root folder. A minimum viable `README.md` includes:
+
+* 🤔 The **purpose** of the project.
+* 👋 Who the **owner** of the project is, and where to ask for help with.
+* 🏗 Steps to **setup** the project. _Preferably this is one command._
+* 🐛 Steps to **test** the project. _Preferably this is one command._
+* 🚀 Steps to **deploy** the project. _Preferably this is one command._
+* 🎖 Steps to **contribute** to the project.
+
+
+[Write a draft of your documentation before your first commit](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
+and update your documentation at the same time you update your code.
+
 
 #### Be in touch with the dev community
 - Go to meetups and conferences and share what you've learned with the rest of the team.
