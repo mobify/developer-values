@@ -196,24 +196,23 @@ repeating the mistakes of the past.
       if (isRunningInApp)
       ```
 
-#### Write a README
+#### ✏️ Write Documentation
 
-Documentation is essential to making codebases accessible for new contributors.
+Documentation is essential to a codebase accessible for new contributors.
 
-All project, modules, libraries and plugins must include a `README.md` file in
-the root folder. A minimum viable `README.md` includes:
+All projects, modules, libraries and plugins must include a `README.md` file in
+the root folder. Minimum viable documentation includes:
 
 * 🤔 The **purpose** of the project.
 * 👋 Who the **owner** of the project is, and where to ask for help with.
 * 🏗 Steps to **setup** the project. _Preferably this is one command._
-* 🐛 Steps to **test** the project. _Preferably this is one command._
-* 🚀 Steps to **deploy** the project. _Preferably this is one command._
-* 🎖 Steps to **contribute** to the project.
+* 🏃 Steps to **run** the project. _Preferably this is one command._
+* 🐛 Steps to **test** the project. _Preferably this is one command and we've hooked up to CI._
+* 🚀 Steps to **deploy** the project. _Preferably this is one command and we've hooked up to CD._
+* 🎖 Steps to **contribute** to the project. _Considering using [`CONTRIBUTING.md`](https://github.com/blog/1184-contributing-guidelines)_
 
-
-[Write a draft of your documentation before your first commit](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
-and update your documentation at the same time you update your code.
-
+[Draft your documentation before committing](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
+and update it at the same time you update code!
 
 #### Be in touch with the dev community
 - Go to meetups and conferences and share what you've learned with the rest of the team.
