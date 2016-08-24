@@ -204,12 +204,12 @@ All projects, modules, libraries and plugins must include a `README.md` file in
 the root folder. Minimum viable documentation includes:
 
 * 🤔 The **purpose** of the project.
-* 👋 Who the **owner** of the project is, and where to ask for help with.
+* 👋 Who the **owner** of the project is, and **where to ask for help**.
 * 🏗 Steps to **setup** the project. _Preferably this is one command._
 * 🏃 Steps to **run** the project. _Preferably this is one command._
 * 🐛 Steps to **test** the project. _Preferably this is one command and we've hooked up to CI._
 * 🚀 Steps to **deploy** the project. _Preferably this is one command and we've hooked up to CD._
-* 🎖 Steps to **contribute** to the project. _Considering using [`CONTRIBUTING.md`](https://github.com/blog/1184-contributing-guidelines)_
+* 🎖 Steps to **contribute** to the project. _Considering using [`CONTRIBUTING.md`](https://github.com/blog/1184-contributing-guidelines)._
 
 [Draft your documentation before committing](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
 and update it at the same time you update code!
