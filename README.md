@@ -179,7 +179,7 @@ repeating the mistakes of the past.
 - Embrace feedback in the code review process.
 - Use the [30/90% principle](https://42floors.com/blog/startups/thirty-percent-feedback) when giving feedback.
 - Seek opportunities to work with others and learn from them. There are lots of smart colleagues around you :).
-- *Consult!* There's a great tradition in medicine, where a doctor, no matter how experienced, will ask a colleague for a _consult_: an opportunity to hear someone else's take on a problem and/or a solution, and maybe open up a different perspective. Feel free to ask for consults, and to give them. Asking for one doesn't commit you to do anything more than listen to the answer. Being asked doesn't mean you have to solve someone else's problem. It's an opportunity to share. 
+- *Consult!* There's a great tradition in medicine, where a doctor, no matter how experienced, will ask a colleague for a _consult_: an opportunity to hear someone else's take on a problem and/or a solution, and maybe open up a different perspective. Feel free to ask for consults, and to give them. Asking for one doesn't commit you to do anything more than listen to the answer. Being asked doesn't mean you have to solve someone else's problem. It's an opportunity to share.
 
 #### Readability counts.
 - Code is written once but read often. There is a good chance someone will have to figure out what it does, mostly likely you, twelve months from now. Take care to write your code in such a way that your future self can iterate on new features and address bugs much faster.
@@ -205,11 +205,11 @@ the root folder. Minimum viable documentation includes:
 
 * 🤔 The **purpose** of the project.
 * 👋 Who the **owner** of the project is, and **where to ask for help**.
-* 🏗 Steps to **setup** the project. _Preferably this is one command._
-* 🏃 Steps to **run** the project. _Preferably this is one command._
-* 🐛 Steps to **test** the project. _Preferably this is one command and we've hooked up to CI._
-* 🚀 Steps to **deploy** the project. _Preferably this is one command and we've hooked up to CD._
-* 🎖 Steps to **contribute** to the project. _Considering using [`CONTRIBUTING.md`](https://github.com/blog/1184-contributing-guidelines)._
+* 🏗 Steps to **setup** the project. _Should be one command._
+* 🏃 Steps to **run** the project. _Should be one command._
+* 🐛 Steps to **test** the project. _Should be one command, hooked up to continuous integration._
+* 🚀 Steps to **deploy** the project. _Should be one command, hooked up to continuous deployment._
+* 🎖 Steps to **contribute** to the project. _Use [`CONTRIBUTING.md`](https://github.com/blog/1184-contributing-guidelines)._
 
 [_Draft your documentation before committing any code!_](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
 
