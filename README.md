@@ -196,7 +196,7 @@ repeating the mistakes of the past.
       if (isRunningInApp)
       ```
 
-#### ✏️ Write Documentation
+#### ✏️ Write Great Documentation
 
 Documentation is essential to a codebase accessible for new contributors.
 
@@ -211,8 +211,7 @@ the root folder. Minimum viable documentation includes:
 * 🚀 Steps to **deploy** the project. _Preferably this is one command and we've hooked up to CD._
 * 🎖 Steps to **contribute** to the project. _Considering using [`CONTRIBUTING.md`](https://github.com/blog/1184-contributing-guidelines)._
 
-[Draft your documentation before committing](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
-and update it at the same time you update code!
+[_Draft your documentation before committing any code!_](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
 
 #### Be in touch with the dev community
 - Go to meetups and conferences and share what you've learned with the rest of the team.
