@@ -174,13 +174,13 @@ repeating the mistakes of the past.
 
 ### Use checklists
 
-There is a reason NASA makes extensive use of checklists - memories are faulty and unreliable.
+There is [plenty developers can learn from pilots](http://lanyrd.com/2015/pycon/sdmfwy/#link-cbgfg) - one is that our memories are faulty and unreliable, leading to inconsistency.
 
-Checklists are a great way to ensure:
+Checklists are a great way to ensure consistency, in areas such as:
 
-- Code changes follow best practices
-- Releases are successful
-- Processes don't have to be relearned over and over
+- Code changes following best practices
+- Successful releases
+- Goal planning
 - So much more!
 
 Checklists are also the first step towards automation - the act of writing down a list
