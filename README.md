@@ -172,6 +172,21 @@ repeating the mistakes of the past.
     - For services, checkout our [best practices](https://mobify.atlassian.net/wiki/display/SYS/Service+Best+Practices).
     - For front-end web apps, checkout our [best practices](https://mobify.atlassian.net/wiki/questions/85917798/what-are-our-best-practices-for-building-front-end-web-application).
 
+### Use checklists
+
+There is a reason NASA makes extensive use of checklists - memories are faulty and unreliable.
+
+Checklists are a great way to ensure:
+
+- Code changes follow best practices
+- Releases are successful
+- Processes don't have to be relearned over and over
+- So much more!
+
+Checklists are also the first step towards automation - the act of writing down a list
+of things to check for every time you do something will help you realize a script
+would be much faster at doing parts of that list instead.
+
 ### Communicate
 
 #### Don't be a lonesome cowboy/cowgirl coder.
