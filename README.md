@@ -115,11 +115,11 @@ our company and culture evolve, so should this document.
 
 #### New problems don't require new technology
 
-When building a software that solves a problem, it's unlikely that you need new technology to solve
-that problem. The things you are building should be pushing boundaries, not the things you are
-building them with. By default, you should [choose boring technology](http://mcfunley.com/choose-boring-technology).
+When building a software that solves a problem, it's unlikely that you need new technology to it.
+The things you are building should be pushing boundaries, not the things you are building them with.
+By default, you should [choose boring technology](http://mcfunley.com/choose-boring-technology).
 
-To make technology decisions easy, it's important to maintain a set of best practices outlining what technology
+To make such technology decisions easy, it's important to maintain a set of best practices outlining what technology
 to use when solving particular classes of problems.
 
 Mobify best practices can be found [here](https://mobify.atlassian.net/wiki/display/PLAT/Coding+and+Design+Best+Practices).
