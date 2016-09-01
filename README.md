@@ -72,10 +72,10 @@ our company and culture evolve, so should this document.
 - Tests also help us write better code. Nothing helps refactor a
   giant method better than writing a test for it!
 
-#### Prioritize End-User Experience over Developer Experience
+#### 🤔 Prioritize End-User Experience over Developer Experience
 
 Sometimes, it's tempting to improve the codebase at all costs, but there is one cost that should never be
-compromised: the user experience. Ensure code changes you made to improve the developer experience don't
+compromised: the user experience. Ensure code changes you make to improve the developer experience don't
 come at the cost of slowing down the UI for the end user.
 
 #### Use staging / testing environments.
