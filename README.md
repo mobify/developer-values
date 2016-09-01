@@ -223,13 +223,14 @@ the root folder. Minimum viable documentation includes:
 - Go to meetups and conferences and share what you've learned with the rest of the team.
 - Write blog posts or speak at meetups and conferences.
 
-#### Diversity and Collaboration
+#### 👳🏽👨‍❤️‍👨👩🏿👭🌈 Promote diversity and collaboration
 
 > Be excellent to each other... and... PARTY ON, DUDES! - [*Abraham Lincoln*](https://en.wikiquote.org/wiki/Bill_%26_Ted%27s_Excellent_Adventure)
 
 We value diversity and collaboration. Our best work is done together, when all
 voices are heard.
 
+> * Assume positive intent.
 > * Be friendly and patient.
 > * Be welcoming.
 > * Be considerate.
