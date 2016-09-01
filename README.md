@@ -172,20 +172,19 @@ repeating the mistakes of the past.
     - For services, checkout our [best practices](https://mobify.atlassian.net/wiki/display/SYS/Service+Best+Practices).
     - For front-end web apps, checkout our [best practices](https://mobify.atlassian.net/wiki/questions/85917798/what-are-our-best-practices-for-building-front-end-web-application).
 
-### Use checklists
+### ✅ Use checklists
 
 There is [plenty developers can learn from pilots](http://lanyrd.com/2015/pycon/sdmfwy/#link-cbgfg) - one is that our memories are faulty and unreliable, leading to inconsistency.
 
 Checklists are a great way to ensure consistency, in areas such as:
 
-- Code changes following best practices
-- Successful releases
+- [Code changes following best practices](https://github.com/mobify/mobify-code-style/blob/develop/github-templates/PULL_REQUEST_TEMPLATE.md)
+- [Successful releases](https://github.com/mobify/mobify-code-style/blob/develop/RELEASE.md)
 - Goal planning
 - So much more!
 
-Checklists are also the first step towards automation - the act of writing down a list
-of things to check for every time you do something will help you realize a script
-would be much faster at doing parts of that list instead.
+Checklists are also the first step towards automation - lists help you realize which
+repetitive tasks could be scripted.
 
 ### Communicate
 
