@@ -201,7 +201,7 @@ repeating the mistakes of the past.
 - Go to meetups and conferences and share what you've learned with the rest of the team.
 - Write blog posts or speak at meetups and conferences.
 
-#### Diversity and Collaboration
+#### Promote diversity and collaboration
 
 > Be excellent to each other... and... PARTY ON, DUDES! - [*Abraham Lincoln*](https://en.wikiquote.org/wiki/Bill_%26_Ted%27s_Excellent_Adventure)
 
@@ -214,15 +214,12 @@ voices are heard.
 > * Be respectful.
 > * Be mindful of the words you choose.
 > * When we disagree, try to understand why.
+> * Assume positive intent
 > – [*Django Code of Conduct*](https://www.djangoproject.com/conduct/)
 
 To understand what we're trying to become, it may be useful to understand what
 we're trying to avoid. See effects of [contempt](http://blog.aurynn.com/86/contempt-culture)
 and [competition](https://medium.com/tech-diversity-files/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996#.yjrp4mqkb) on environments.
-
-#### Assume positive intent
-- It's easy to adopt an "us vs them" mentality within any organization. Resist the urge, and always try to remember
-  that we're all on this journey together working towards the same goals. TODO Revise!
 
 #### Favour experimentation over argument
 
