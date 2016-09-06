@@ -81,8 +81,6 @@ come at the cost of slowing down the UI for the end user.
 #### Use staging / testing environments.
 - We should always test in an environment as close to production as possible before going live – this allows us to spot any bugs, and resolve them before we flip that switch and turn it on for everyone.
 
-#### [Follow our best practices](https://mobify.atlassian.net/wiki/display/PLAT/Coding+and+Design+Best+Practices).
-
 #### Fail Gracefully.
 - Adaptive.js/mobify.js projects fail gracefully by reverting to the desktop site in the event of an exception or network error.
 - If Web Push is down, the worst thing that happens is that you can't send or receive
@@ -121,8 +119,16 @@ come at the cost of slowing down the UI for the end user.
 
 ### Invent
 
-#### Don't be afraid to push the boundaries of technology, but [be conservative with your tech stack](http://mcfunley.com/choose-boring-technology).
-- What this means is that the things you are building should be pushing boundaries, not the things you are building them with. [Here is a list of technology decisions we have evaluated in the past](https://mobify.atlassian.net/wiki/questions/77168927/what-should-i-consider-when-evaluating-a-new-service-feature-or-technology-what-criteria-do-we-use-in-our-decisions).
+#### New problems don't require new technology
+
+When building software that solves a problem, it's unlikely that you need new technology to solve it.
+The things you are building should be pushing boundaries, not the things you are building them with.
+By default, you should [choose boring technology](http://mcfunley.com/choose-boring-technology).
+
+To make such technology decisions easy, it's important to maintain a set of best practices outlining what technology
+to use when solving particular classes of problems.
+
+Mobify best practices can be found [here](https://mobify.atlassian.net/wiki/display/PLAT/Coding+and+Design+Best+Practices).
 
 #### Have an idea you want to pursue?
 - Customer/Product Improvements:
@@ -174,7 +180,7 @@ repeating the mistakes of the past.
     - e.g. make the new thing modular and self contained, and not require modifications to shared dependencies. Once it's clear things are going to stick, then think about refactoring things once it is clear that they are going to "stick".
 
 #### Avoid re-inventing the wheel
-- [Look for existing solutions](https://medium.com/@kuomarc/don-t-build-it-in-house-there-is-an-api-for-that-c929b8677137)  (libraries, snippets, services) before rolling your own. If they exist, someone at Mobify will likely know - reach out to the Engineering team early and often!
+- [Look for existing solutions](https://medium.com/@kuomarc/don-t-build-it-in-house-there-is-an-api-for-that-c929b8677137)  (libraries, snippets, services) before rolling your own. If they exist, someone will likely know - reach out to the Engineering team early and often!
     - For services, checkout our [best practices](https://mobify.atlassian.net/wiki/display/SYS/Service+Best+Practices).
     - For front-end web apps, checkout our [best practices](https://mobify.atlassian.net/wiki/questions/85917798/what-are-our-best-practices-for-building-front-end-web-application).
 
