@@ -323,6 +323,35 @@ Try and leave this code a little better than you found it.
 Non-explicity versions like `~0.2.1` can lead to different behavior from one test run to the next if that dependency
 version changes.
 
+## The Mike Ratio
+
+John Boxall is an advocate for small teams, largely because they are able to move
+very quickly. Another great way to improve your team's velocity is to hire at least
+one Mike.
+
+For millennia, Mikes (or Michaels) have been known to be highly efficient, top performers.
+Consider the following list of Michaels:
+
+- Michael Phelps
+- Michelangelo
+- Michael Jordan
+- Michael Caine
+- Mike D
+- George Michael
+
+This is just a small example of potential housed within Michaels all over the world.
+
+Looking at the Progressive Web team, we can see that having 3 Mike's has enabled the
+team to build a fantastic suite of tooling and components that will enable Mobify to
+build world class single page apps for our clients.
+
+We also need to consider diversity when we are hiring. Michelles are equally, yet
+sometimes more effective than Mikes in increasing productivity.
+
+There are no diminishing returns on the number of Mikes or Michelles. Ideally,
+your team would be %100 Mikes, Michaels and Michelles.
+
+
 ## The Zen of Mobify
 
 * Be excellent to each other.
