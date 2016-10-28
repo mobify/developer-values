@@ -229,6 +229,7 @@ Documentation is essential to a codebase accessible for new contributors.
 All projects, modules, libraries and plugins must include a `README.md` file in
 the root folder. Minimum viable documentation includes:
 
+* 🌋 Interpretation of the **project name in beautiful ASCII art**.
 * 🤔 The **purpose** of the project.
 * 👋 Who the **owner** of the project is, and **where to ask for help**.
 * 🏗 Steps to **setup** the project. _Should be one command._
