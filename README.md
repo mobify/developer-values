@@ -82,7 +82,7 @@ come at the cost of slowing down the UI for the end user.
 - We should always test in an environment as close to production as possible before going live – this allows us to spot any bugs, and resolve them before we flip that switch and turn it on for everyone.
 
 #### Fail Gracefully.
-- Adaptive.js/mobify.js projects fail gracefully by reverting to the desktop site in the event of an exception or network error.
+- Web builds should fail gracefully by reverting to the desktop site in the event of an exception or network error.
 - If Web Push is down, the worst thing that happens is that you can't send or receive
   push notifications. It will not impact the critical flows of our customers sites.
 - [Ensure failed analytics calls (caused by adblockers) don't cause main application
