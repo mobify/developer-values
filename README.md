@@ -202,23 +202,28 @@ repetitive tasks could be scripted.
 
 #### 👥 Seek Feedback
 
-In medicine there is a tradition, where 👩🏾‍⚕️ doctors, no matter how
-experienced, ask colleagues for a _consult_: an opportunity to hear another
-perspective on how to resolve a challenge.
+> In medicine there is a tradition, where 👩🏾‍⚕️ doctors, no matter how
+> experienced, ask colleagues for a _consult_: an opportunity to hear another
+> perspective on how to resolve a challenge.
 
-_We have blatantly stole and copied this great tradition._
+_Mobify has blatantly stole this great tradition._
 
 **Actively seek feedback and incorporate it into your work.**
 
-Before writing a single line of code, discuss your solution with your peers.
+Before writing code, discuss solutions with your peers.
 
-Discussions may be as informal as a five minute [🦆 Rubber Duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
-session with a white board, or a calendared fifty minute Design Review with
+Discussions may be informal five minute [🦆 Rubber Duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
+sessions in front of a white board, or a calendared fifty minute Design Review with
 your team and 🍖 stakeholders.
 
-**Whether its written by the CTO or the most junior Mobifyer, all code is reviewed
-before it is pushed to production.**
+Early discussion stops us from pursuing dead end solutions.
 
+We call this up front planning [*30% Feedback*](https://42floors.com/blog/startups/thirty-percent-feedback).
+
+**Whether written by the CTO or most junior Mobifyer, all code is reviewed
+before being deployed to production.**
+
+🙏 Embrace feedback. It is _crucial_ to your growth.
 
 #### Readability counts.
 
