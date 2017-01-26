@@ -210,7 +210,7 @@ _Mobify has blatantly stole this great tradition._
 
 **Actively seek feedback and incorporate it into your work.**
 
-Before writing code, discuss solutions with your peers.
+Before implementing a major change, discuss solutions with your peers.
 
 Discussions may be informal five minute [🦆 Rubber Duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
 sessions in front of a white board, or a calendared fifty minute Design Review with
