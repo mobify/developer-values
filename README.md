@@ -200,14 +200,33 @@ repetitive tasks could be scripted.
 
 ### Communicate
 
-#### Don't be a lonesome cowboy/cowgirl coder.
-- Ask for feedback early and regularly. Embrace critique.
-- Embrace feedback in the code review process.
-- Use the [30/90% principle](https://42floors.com/blog/startups/thirty-percent-feedback) when giving feedback.
-- Seek opportunities to work with others and learn from them. There are lots of smart colleagues around you :).
-- *Consult!* There's a great tradition in medicine, where a doctor, no matter how experienced, will ask a colleague for a _consult_: an opportunity to hear someone else's take on a problem and/or a solution, and maybe open up a different perspective. Feel free to ask for consults, and to give them. Asking for one doesn't commit you to do anything more than listen to the answer. Being asked doesn't mean you have to solve someone else's problem. It's an opportunity to share.
+#### 👥 Seek Feedback
+
+> In medicine there is a tradition, where 👩🏾‍⚕️ doctors, no matter how
+> experienced, ask colleagues for a _consult_: an opportunity to hear another
+> perspective on how to resolve a challenge.
+
+_Mobify has blatantly stole this great tradition._
+
+**Actively seek feedback and incorporate it into your work.**
+
+Before implementing a major change, discuss solutions with your peers.
+
+Discussions may be informal five minute [🦆 Rubber Duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
+sessions in front of a white board, or a calendared fifty minute Design Review with
+your team and 🍖 stakeholders.
+
+Early discussion stops us from pursuing dead end solutions.
+
+We call this up front planning [*30% Feedback*](https://42floors.com/blog/startups/thirty-percent-feedback).
+
+**Whether written by the CTO or most junior Mobifyer, all code is reviewed
+before being deployed to production.**
+
+🙏 Embrace feedback. It is _crucial_ to your growth.
 
 #### Readability counts.
+
 - Code is written once but read often. There is a good chance someone will have to figure out what it does, mostly likely you, twelve months from now. Take care to write your code in such a way that your future self can iterate on new features and address bugs much faster.
 - Follow the [Mobify Style Guide](https://github.com/mobify/mobify-code-style). It contains best practices, as well as linter tools for various commonly used languages - we highly recommend using those tools instead of hearing about code style issues in PR reviews! Please feel free to open up PRs against it - our style guide is an always-evolving document!
 - Explicit is better than implicit.
