@@ -26,10 +26,10 @@
 
 Why do we build software? Ultimately, it's to provide value to people.
 Sometimes, it can be hard to justify certain approaches to building software.
-The purpose of this document is to relate the "how" to build software to the
+The purpose of this document is to relate the "how" of building software to the
 "why" by relating our processes to our company values.
 
-The Developer Values are a living document. Everyone can contribute and as
+This is a living document. Everyone can contribute and as
 our company and culture evolve, so should this document.
 
 ### This document will be helpful for:
