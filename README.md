@@ -124,9 +124,9 @@ never betray this trust:
 * Use [strong passwords](https://xkcd.com/936/).
 * Use a [password manager](https://www.lastpass.com/).
 * Use [two factor authentication](https://support.google.com/accounts/answer/1066447?hl=en).
-* [Never commit secrets or keys](https://mobify.atlassian.net/wiki/display/SYS/Best+Practices+For+Keeping+Secrets+in+Applications).
 * Apply the [principle of least privilege](https://en.wikipedia.org/wiki/Principle_of_least_privilege).
-* When it doubt, ask! `#security` is always happy to help!
+* [Never commit secrets or keys](https://mobify.atlassian.net/wiki/display/SYS/Best+Practices+For+Keeping+Secrets+in+Applications).
+* When in doubt, ask! [`#security`](https://mobify.slack.com/messages/security/) is always happy to help 🙋.
 
 ### Invent
 
