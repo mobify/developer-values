@@ -113,9 +113,20 @@ come at the cost of slowing down the UI for the end user.
 #### A feature in the hands of our customers is worth more than 5 PRs.
 - When working on a team, it can be easy to crank away on your own features. Resist the urge! It's more important to get some work merged and in the hands of users then it is to have a bunch of work piled up for review. [This article on code review](http://glen.nu/ramblings/oncodereview.php) explains it best.
 
-#### Build Secure Software
-- Do our best to ensure that Mobify does not add new attack vectors to our customer's sites.
-- Follow [Mobify's software security policy](https://mobify.atlassian.net/wiki/questions/60817443/what-is-mobifys-software-security-policy).
+#### 🔒 Build Secure Software
+
+> With great power comes great responsibility. – [Uncle Ben](https://en.wikipedia.org/wiki/Uncle_Ben)
+
+Customer give us unlimited power when they add the Mobify Tag to their websites.
+Breaches in our security could impact them. We have a great responsiblity to
+never betray this trust:
+
+* Use [strong passwords](https://xkcd.com/936/).
+* Use a [password manager](https://www.lastpass.com/).
+* Use [two factor authentication](https://support.google.com/accounts/answer/1066447?hl=en).
+* [Never commit secrets or keys](https://mobify.atlassian.net/wiki/display/SYS/Best+Practices+For+Keeping+Secrets+in+Applications).
+* Apply the [principle of least privilege](https://en.wikipedia.org/wiki/Principle_of_least_privilege).
+* When it doubt, ask! `#security` is always happy to help!
 
 ### Invent
 
