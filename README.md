@@ -129,7 +129,8 @@ a great responsiblity to never betray this trust:
 * 🔑 Use a [password manager](https://www.lastpass.com/).
 * 📱 Use [two factor authentication](https://support.google.com/accounts/answer/1066447?hl=en).
 * 🔻 Apply the [principle of least privilege](https://en.wikipedia.org/wiki/Principle_of_least_privilege).
-* 🤐 [Never commit secrets or keys](https://mobify.atlassian.net/wiki/display/SYS/Best+Practices+For+Keeping+Secrets+in+Applications).
+* 🤐 [Never commit secrets, keys or passwords](https://mobify.atlassian.net/wiki/display/SYS/Best+Practices+For+Keeping+Secrets+in+Applications).
+* ⏰ [Patch regularly](https://docs.google.com/document/d/1J3oC-7VJYC-wDLIF04M1jN79IhjF3sBLap0TUBJDVaw/edit#).
 * 🙋 When in doubt, ask! [`#security`](https://mobify.slack.com/messages/security/) is always happy to help.
 
 ### Be Exceptional
