@@ -132,6 +132,8 @@ a great responsiblity to never betray this trust:
 * 🤐 [Never commit secrets, keys or passwords](https://mobify.atlassian.net/wiki/display/SYS/Best+Practices+For+Keeping+Secrets+in+Applications).
 * ⏰ [Patch regularly](https://docs.google.com/document/d/1J3oC-7VJYC-wDLIF04M1jN79IhjF3sBLap0TUBJDVaw/edit#).
 * 🙋 When in doubt, ask! [`#security`](https://mobify.slack.com/messages/security/) is always happy to help.
+* 📰 Be aware of security developments in the wider community and take part in our
+  [Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project) training programme.
 
 ### Be Exceptional
 
