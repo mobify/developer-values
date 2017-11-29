@@ -132,6 +132,8 @@ a great responsiblity to never betray this trust:
 * 🤐 [Never commit secrets, keys or passwords](https://mobify.atlassian.net/wiki/display/SYS/Best+Practices+For+Keeping+Secrets+in+Applications).
 * ⏰ [Patch regularly](https://docs.google.com/document/d/1J3oC-7VJYC-wDLIF04M1jN79IhjF3sBLap0TUBJDVaw/edit#).
 * 💳 Be aware of our [Payment Card Industry (PCI) Standards programme](https://mobify.atlassian.net/wiki/spaces/PCI/) and how it affects your work.
+* 🎓 Educate yourself and others on building secure software. The
+  [Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project) top 10 is a great starting point.
 * 🙋 When in doubt, ask! [`#security`](https://mobify.slack.com/messages/security/) is always happy to help.
 
 ### Be Exceptional
