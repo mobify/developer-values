@@ -130,6 +130,7 @@ a great responsiblity to never betray this trust:
 * 📱 Use [two factor authentication](https://support.google.com/accounts/answer/1066447?hl=en).
 * 🔻 Apply the [principle of least privilege](https://en.wikipedia.org/wiki/Principle_of_least_privilege).
 * 🤐 [Never commit secrets, keys or passwords](https://mobify.atlassian.net/wiki/display/SYS/Best+Practices+For+Keeping+Secrets+in+Applications).
+* ✏️ If you think your password may be compromised, change it
 * ⏰ [Patch regularly](https://docs.google.com/document/d/1J3oC-7VJYC-wDLIF04M1jN79IhjF3sBLap0TUBJDVaw/edit#).
 * 💳 Be aware of our [Payment Card Industry (PCI) Standards programme](https://mobify.atlassian.net/wiki/spaces/PCI/) and how it affects your work.
 * 🎓 Educate yourself and others on building secure software. The
