@@ -136,6 +136,14 @@ a great responsiblity to never betray this trust:
   [Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project) top 10 is a great starting point.
 * 🙋 When in doubt, ask! [`#security`](https://mobify.slack.com/messages/security/) is always happy to help.
 
+##### 😱 What should I do if I believe we have been compromised?
+
+Get **LOUD**! Let Mobifyers in `#security` and `#everybody` channels know what is happening. _You may not be the only Mobifyer under attack._ Consider physically standing up and saying IRL, "I think we've been hacked!".
+
+No one is going to get mad at you for reporting security incidents. 
+
+Work in `#security` to investigate and change your critical passwords ASAP.
+
 ### Be Exceptional
 
 > Be exceptional in your work, your communication, your development and to each
