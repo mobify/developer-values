@@ -127,7 +127,6 @@ a great responsiblity to never betray this trust:
 
 * 💪 Use [strong passwords](https://xkcd.com/936/).
 * 🔑 Use a [password manager](https://www.lastpass.com/).
-* ✏️ If you think your password may be compromised, change it.
 * 📱 Use [two factor authentication](https://support.google.com/accounts/answer/1066447?hl=en).
 * 🔻 Apply the [principle of least privilege](https://en.wikipedia.org/wiki/Principle_of_least_privilege).
 * 🤐 [Never commit secrets, keys or passwords](https://mobify.atlassian.net/wiki/display/SYS/Best+Practices+For+Keeping+Secrets+in+Applications).
@@ -136,6 +135,14 @@ a great responsiblity to never betray this trust:
 * 🎓 Educate yourself and others on building secure software. The
   [Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project) top 10 is a great starting point.
 * 🙋 When in doubt, ask! [`#security`](https://mobify.slack.com/messages/security/) is always happy to help.
+
+##### 😱 What should I do if I believe we have been compromised?
+
+Get **LOUD**! Let Mobifyers in `#security` and `#everybody` channels know what is happening. _You may not be the only Mobifyer under attack._ Consider physically standing up and saying IRL, "I think we've been hacked!".
+
+No one is going to get mad at you for reporting security incidents. 
+
+Work in `#security` to investigate and change your critical passwords ASAP.
 
 ### Be Exceptional
 
