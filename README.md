@@ -275,8 +275,9 @@ _Mobify has blatantly stole this great tradition._
 Before implementing a major change, discuss solutions with your peers.
 
 Discussions may be informal five minute [🦆 Rubber Duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
-sessions in front of a white board, or a calendared fifty minute Design Review with
-your team and 🍖 stakeholders.
+sessions in front of a white board, or an in-depth 
+[Project Technical Review](https://docs.google.com/document/d/1xGG5GxHAS8JJfkrrH9TC6-tL_5wTq-em4jVwrYwhPt0)
+with your team and 🍖 stakeholders.
 
 Early discussion stops us from pursuing dead end solutions.
 
