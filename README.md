@@ -121,9 +121,9 @@ come at the cost of slowing down the UI for the end user.
 
 > With great power comes great responsibility. – [*Uncle Ben*](https://en.wikipedia.org/wiki/Uncle_Ben)
 
-Customers trust us with unlimited power when they add Mobify code to their
-websites. Breaches in our security could impact them and their shoppers. We have
-a great responsiblity to never betray this trust:
+Customers trust us with unlimited power when they use Mobify to power their websites.
+Breaches in our security would impact them and their [shoppers](https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5).
+We have a great responsiblity to protect this trust:
 
 * 💪 Use [strong passwords](https://xkcd.com/936/).
 * 🔑 Use a [password manager](https://www.lastpass.com/).
@@ -131,18 +131,21 @@ a great responsiblity to never betray this trust:
 * 🔻 Apply the [principle of least privilege](https://en.wikipedia.org/wiki/Principle_of_least_privilege).
 * 🤐 [Never commit secrets, keys or passwords](https://mobify.atlassian.net/wiki/display/SYS/Best+Practices+For+Keeping+Secrets+in+Applications).
 * ⏰ [Patch regularly](https://docs.google.com/document/d/1J3oC-7VJYC-wDLIF04M1jN79IhjF3sBLap0TUBJDVaw/edit#).
-* 💳 Be aware of our [Payment Card Industry (PCI) Standards programme](https://mobify.atlassian.net/wiki/spaces/PCI/) and how it affects your work.
-* 🎓 Educate yourself and others on building secure software. The
-  [Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project) top 10 is a great starting point.
-* 🙋 When in doubt, ask! [`#security`](https://mobify.slack.com/messages/security/) is always happy to help.
+* 💳 Review how our [Payment Card Industry](https://mobify.atlassian.net/wiki/spaces/PCI/) programme impacts your work.
+* 🎓 Learn to build secure software. _Start with the [Open Web Application Security Project](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)!_
+* 🙋 When in doubt, ask! [`#security`](https://mobify.slack.com/messages/security/) is happy to help.
 
 ##### 😱 What should I do if I believe we have been compromised?
 
-Get **LOUD**! Let Mobifyers in `#security` and `#everybody` channels know what is happening. _You may not be the only Mobifyer under attack._ Consider physically standing up and saying IRL, "I think we've been hacked!".
+Get **LOUD**! Let Mobifyers in `#security` and `#everybody` know what you think is happening.
 
-No one is going to get mad at you for reporting security incidents. 
+_You may not be the only Mobifyer under attack._
 
-Work in `#security` to investigate and change your critical passwords ASAP.
+Physically stand up and say IRL, "I think we're being hacked!".
+
+_No one is going to get mad at you for reporting security incidents._
+
+Work with `#security` to investigate and change your critical passwords ASAP.
 
 ### Be Exceptional
 
