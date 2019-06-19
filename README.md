@@ -188,9 +188,9 @@ and [competition](https://medium.com/tech-diversity-files/if-you-think-women-in-
 
 #### [Build and work on your career growth plan](https://docs.google.com/document/d/1P3XOEu6AYWph7hStaBybR1yIac5pexGChykZh_X9CGM/edit#)
 
-#### Be a software craftsman/craftswoman.
+#### Be a software craftsperson
 
-- Take pride in how you build the software and your craftsmanship regardless of how the product does in the market. This doesn't mean gold-plating everything, often you should act pragmatically. Shipping value to users is the most important thing, but make sure to take the time to reflect on what you build, and do a post mortem and always make sure you're not
+- Take pride in how you build the software and your craft regardless of how the product does in the market. This doesn't mean gold-plating everything, often you should act pragmatically. Shipping value to users is the most important thing, but make sure to take the time to reflect on what you build, and do a post mortem and always make sure you're not
 repeating the mistakes of the past.
 - Ensure you challenge designs that you see problems with instead of implementing them without questioning.
 - Internet resources such as StackOverflow and Github are valuable as a source of advice and example code, but we don't treat them as a source of truth. We always try to understand and validate what we find online before using it (using available source code and API documentation).
