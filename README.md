@@ -37,6 +37,7 @@ culture evolve, so should this document.
 - Code reviews. Our culture spreads via reviews and this document should
   help us conduct them consistently.
     - [Here is a useful page that explains what the purpose of a code review is](https://mobify.atlassian.net/wiki/pages/viewpage.action?pageId=50266690#OurSoftwareDesign&DevelopmentProcess-CodeReviews)
+    - [Here is Mobify's code reviews process](https://docs.google.com/document/d/1FiwibijoA6jU2v_6IXU2y76r8g6okt9SKCvMeSzRbxw/edit#heading=h.ll7rcdi4g01t)
     - [Here is a great article on the importance of code review](http://glen.nu/ramblings/oncodereview.php)
 - Onboarding.
 - Guiding discussions about the best way to implement. That is, the proposed
@@ -181,7 +182,7 @@ and [competition](https://medium.com/tech-diversity-files/if-you-think-women-in-
     - Teach your co-workers. Good venues for this are [Science Fair or the Engineering Meeting](https://mobify.atlassian.net/wiki/display/DEV/Engineering+Home).
     - Teach the community - for example speak at meetups ([VanJS)](http://www.meetup.com/vancouver-javascript-developers/), [VanPy](http://www.meetup.com/vanpyz/), [Web Performance](http://www.meetup.com/Vancouver-Web-Performance/), etc) or write blog posts.
     - Transfer knowledge whenever possible. If someone encounters a problem it is better to guide them to a solution rather then solving it for them.
-- [Code reviews](https://mobify.atlassian.net/wiki/questions/79527980/answers/81789067) and Pair Programming are excellent strategies for learning new tricks.
+- [Code reviews](https://docs.google.com/document/d/1FiwibijoA6jU2v_6IXU2y76r8g6okt9SKCvMeSzRbxw/edit) and Pair Programming are excellent strategies for learning new tricks.
     - Ensure people with different skill levels and skill sets are reviewing your code, it's a great opportunity for cross-pollination.
     - Get your code reviewed by the CTO at our [Engineering Office Hours](https://docs.google.com/document/d/1fvL30nvx1Yr2i--dTyytExnrokwrBQlPmXX2ZM06ukU/edit).
     - As the person receiving feedback, strive to be as open to the feedback as possible. This will help maximize learning. (Note: that is not a license for reviewers to completely disregard the feelings of the person who wrote the code - we believe that relationships are more important than process or tools).
