@@ -336,6 +336,14 @@ the root folder. Minimum viable documentation includes:
 
 [_Draft your documentation before committing any code!_](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
 
+Document code changes. It is important to document the changes in pull requests in order to help us recall the reasons behind decisions. Every pull request should have a clear description includes:
+
+* Purpose of the changes
+* List of major changes
+* Steps to reproduce and verify
+
+When closing a pull request, write down the reasons of why the pull request is rejected.
+
 #### Be solutions focused
 
 - Rather than thinking "Wow, I can name 20 things that are awful with this design", try to be solutions focused. "There are 20 improvements we could make to this! X is done this way, but it could be better if we made it more like Y". There are many reasons why a piece of software was built the way it was built, and harping on how it was built doesn't get us any closer to solving the problem at hand.
